@@ -9,14 +9,14 @@ set -g surface1 22222a
 set -g surface2 2a2a33
 
 set -g text e6e6eb
-set -g subtext1 b4b4bf
-set -g subtext0 8a8a95
+set -g subtext0 b4b4bf
+set -g subtext1 8a8a95
 set -g disabled 5c5c66
 
 set -g success 3aa675
 set -g warning d18f3a
-set -g danger b11226
+set -g danger ffff00
 set -g info 6b7fd7
 
-set -g accent b11226
+set -g accent de1928
 set -g accent_soft d13a4a

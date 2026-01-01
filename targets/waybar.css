@@ -11,16 +11,16 @@
 
 /* ---------- Text ---------- */
 @define-color text        #e6e6eb;
-@define-color subtext1    #b4b4bf;
-@define-color subtext0    #8a8a95;
+@define-color subtext0    #b4b4bf;
+@define-color subtext1    #8a8a95;
 @define-color disabled    #5c5c66;
 
 /* ---------- Accent ---------- */
-@define-color accent      #b11226;
+@define-color accent      #de1928;
 @define-color accent-soft #d13a4a;
 
 /* ---------- Semantic ---------- */
 @define-color success     #3aa675;
 @define-color warning     #d18f3a;
-@define-color danger      #b11226;
+@define-color danger      #ffff00;
 @define-color info        #6b7fd7;
